@@ -14,7 +14,7 @@ Help creators understand what drives virality across platforms like TikTok, Inst
 -----------------------------------------------------------------------------------------
 ## How to Run the Project: 
 
-### Requirements
+# Requirements
 - Python 3.10 +
 - Jupyter Notebook/ VS Code
 
