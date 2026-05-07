@@ -2,9 +2,7 @@
 Viral Content Predictor that predicts whether social media content will go viral based on social media engagement patterns and measurable engagement metrics. 
 
 ## Dataset
-Kaggle Viral Social Media Trends dataset: 
-[https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis 
-](url)
+[Kaggle Viral Social Media Trends Dataset](https://www.kaggle.com/datasets/atharyasoundankar/viral-social-media-trends-and-engagement-analysis)
 
 ## Methods
 - Data cleaning (Pandas)
