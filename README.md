@@ -147,7 +147,7 @@ Help creators understand what drives virality across platforms like TikTok, Inst
 
 **1. Clone the repository**
 ```bash
-git clone <https://github.com/shreyabhatlap/Viral-Content-Predictor-CS210-Final-Project.git>
+git clone https://github.com/shreyabhatlap/Viral-Content-Predictor-CS210-Final-Project.git
 ```
 
 **2. Go into the project folder**
@@ -173,7 +173,6 @@ venv\Scripts\activate
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-
 ---
 
 ## How To Run the Project
@@ -185,7 +184,7 @@ jupyter notebook
 
 **2. Open**
 ```
-Viral_Content_Predictor.ipynb
+Viral_Content_Predictor- Data Management Final.ipynb
 ```
 
 **3. Run all cells from top → bottom OR click "Run All"**
