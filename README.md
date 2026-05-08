@@ -19,44 +19,69 @@ Help creators understand what drives virality across platforms like TikTok, Inst
 - Python 3.10 +
 - Jupyter Notebook/ VS Code
 
-### Setup Steps 
+## Setup Steps
 
-**1. Clone the repository** 
+**1. Clone the repository**
 ```bash
-git clone < LINKKKKKKK> 
+git clone <YOUR_LINK>
+```
 
-**2. Go into the project folder** 
-cd Viral-Content-Predictor 
+**2. Go into the project folder**
+```bash
+cd Viral-Content-Predictor
+```
 
-**3. Create virtual environment** 
-python -m venv venv 
+**3. Create virtual environment**
+```bash
+python -m venv venv
+```
 
-**4. Activate environment** 
+**4. Activate environment**
+```bash
 # Mac/Linux
 source venv/bin/activate
 
 # Windows
 venv\Scripts\activate
+```
 
-# Install dependencies
+**5. Install dependencies**
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
-## Run the Project 
-1. Open the notebook:
-    jupyter notebook
-3. Open:
-    Viral_Content_Predictor.ipynb
-5. Run all cells in order from top --> bottom OR click "Run All"
+---
 
-## Expected Outputs:
-- Dataset loads: rows, cols: (5000,11)
-- After cleaning: Final Shape: (3796, 10)
-- Model results prints for: Instagram, Tiktok, Youtube
+## Run the Project
+
+**1. Open the notebook**
+```bash
+jupyter notebook
+```
+
+**2. Open**
+```
+Viral_Content_Predictor.ipynb
+```
+
+**3. Run all cells from top → bottom OR click "Run All"**
+
+---
+
+## Expected Outputs
+- Dataset loads: `(5000, 11)`
+- After cleaning: `(3796, 10)`
+- Model results for:
+  - Instagram  
+  - TikTok  
+  - YouTube  
+
 - Graphs:
-        - EDA plots
-        - Correlation heatmap
-        - Feature importance
-        - ROC curves
+  - EDA plots  
+  - Correlation heatmap  
+  - Feature importance  
+  - ROC curves
+
 ## Running the Predictor: 
 At the end of the notebook run: predict_viral(.....)
 Example outputs: 
