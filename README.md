@@ -11,6 +11,7 @@ Viral Content Predictor that predicts whether social media content will go viral
 ----------------------------------------------------------------------------------------
 ## Goal
 Help creators understand what drives virality across platforms like TikTok, Instagram, and YouTube.
+
 -----------------------------------------------------------------------------------------
 ## How to Run the Project: 
 
@@ -20,16 +21,17 @@ Help creators understand what drives virality across platforms like TikTok, Inst
 
 ### Setup Steps 
 
-# Clone the repository 
+**1. Clone the repository** 
+```bash
 git clone < LINKKKKKKK> 
 
-# Go into the project folder 
+**2. Go into the project folder** 
 cd Viral-Content-Predictor 
 
-# Create virtual environment 
+**3. Create virtual environment** 
 python -m venv venv 
 
-# Activate environment
+**4. Activate environment** 
 # Mac/Linux
 source venv/bin/activate
 
