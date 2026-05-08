@@ -147,7 +147,7 @@ Help creators understand what drives virality across platforms like TikTok, Inst
 
 **1. Clone the repository**
 ```bash
-git clone <YOUR_LINK>
+git clone <https://github.com/shreyabhatlap/Viral-Content-Predictor-CS210-Final-Project.git>
 ```
 
 **2. Go into the project folder**
